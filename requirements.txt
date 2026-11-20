@@ -1,0 +1,13 @@
+flask
+pywebview
+pyttsx3
+SpeechRecognition
+PyAudio
+psutil
+requests
+send2trash
+Pillow
+# Offline speech fallback when there is no internet (optional but recommended):
+faster-whisper
+# Realistic neural female voice (needs internet; falls back to Windows voices offline):
+edge-tts
